@@ -2,23 +2,27 @@
 
 ### Software Engineer | Strategy, Design & Development
 
-I work across product strategy, UX, design, and software development. I like taking an idea from the early planning stage and turning it into something people can actually use.
+I work across product strategy, UX, design, and software development. My background includes websites, digital products, content, branding, UX, design, and development.
 
-My work usually starts with understanding the problem, figuring out what needs to be built, planning the user experience, designing the interface, and then building the product.
+I look at more than the code. I think about the problem being solved, what needs to be built, who will use it, how the experience should work, how it should look, and how the technical side should be implemented. I can take an idea from the planning stage through product structure, UX, design, development, testing, and deployment.
 
 ## What I Do
 
-**Product Strategy**  
-Understanding the problem, defining what needs to be built, and turning ideas into clear product plans.
+### Product Strategy
 
-**UX & Product Design**  
-Working on user flows, structure, interfaces, and the overall experience of a product.
+I work with product requirements, feature planning, user needs, and product structure. I help turn an idea into something that can be designed and developed.
 
-**Full-Stack Development**  
-Building web applications, APIs, databases, authentication, and the features that bring a product together.
+### UX & Product Design
 
-**Product Development**  
-Taking a product from an idea through planning, design, development, testing, and deployment.
+I work on user flows, information architecture, wireframes, interface design, and interaction design, with attention to how people move through a product.
+
+### Full-Stack Development
+
+I build frontend applications, backend services, REST APIs, databases, authentication, integrations, and the application logic that connects them.
+
+### Product Development
+
+I work across planning, design, development, testing, deployment, and ongoing product improvements.
 
 ## Currently Working On
 
@@ -28,34 +32,50 @@ An AI-powered study-abroad platform bringing university and course discovery, ap
 
 **Role:** Software Engineer & Product Manager
 
-My work covers product planning, UX, design, frontend and backend development, architecture, and coordinating development work.
+My work covers product planning, product requirements, UX, interface design, frontend and backend development, application architecture, APIs and integrations, database work, testing, deployment, and coordinating development work.
 
 ## Tech Stack
 
-**Frontend**  
-React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
+### Frontend
 
-**Backend**  
-Node.js · Express.js · Python · REST APIs
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap" />
 
-**Database**  
-PostgreSQL · Supabase
+### Backend
 
-**Cloud & Development**  
-Git · GitHub · GitHub Actions · Vercel · Railway · Azure
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Node.js, Express, Python" />
 
-**Design & Product**  
-Figma · UX/UI Design · Product Strategy
+REST APIs
 
-## How I Work
+### Databases & Backend Services
 
-**Understand → Plan → Design → Build → Test → Improve**
+<img src="https://skillicons.dev/icons?i=postgres,supabase" alt="PostgreSQL, Supabase" />
 
-I like being involved beyond the code. I care about how a product works, how it feels to use, and how the technical decisions support the product as it grows.
+### Authentication & Integrations
 
-## Outside Work
+![Authentication](https://img.shields.io/badge/Authentication-111827?style=flat-square)
+![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=white)
+![API integrations](https://img.shields.io/badge/API_integrations-0F172A?style=flat-square)
 
-I spend a lot of my free time writing, journaling, learning new things, and exploring ideas around technology, design, and people.
+### DevOps & Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel" alt="Git, GitHub, Vercel" />
+
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=111)
+
+### Testing & Development
+
+![Debugging](https://img.shields.io/badge/Debugging-111827?style=flat-square)
+![Code_reviews](https://img.shields.io/badge/Code_reviews-334155?style=flat-square)
+
+### Design & Product
+
+<img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+
+![UI/UX_Design](https://img.shields.io/badge/UI%2FUX_Design-111827?style=flat-square)
+![User_Flows](https://img.shields.io/badge/User_Flows-334155?style=flat-square)
+![Information_Architecture](https://img.shields.io/badge/Information_Architecture-475569?style=flat-square)
+![Product_Strategy](https://img.shields.io/badge/Product_Strategy-0F172A?style=flat-square)
 
 ## Connect
 
