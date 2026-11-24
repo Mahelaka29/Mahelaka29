@@ -4,78 +4,147 @@
 
 I work across product strategy, UX, design, and software development. My background includes websites, digital products, content, branding, UX, design, and development.
 
-I look at more than the code. I think about the problem being solved, what needs to be built, who will use it, how the experience should work, how it should look, and how the technical side should be implemented. I can take an idea from the planning stage through product structure, UX, design, development, testing, and deployment.
+I look at more than the code: the problem, the users, the experience, the interface, and how the technical side should be built. I take ideas from planning through structure, UX, design, development, testing, and deployment.
+
+---
 
 ## What I Do
 
-### Product Strategy
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-I work with product requirements, feature planning, user needs, and product structure. I help turn an idea into something that can be designed and developed.
+**Product Strategy**
 
-### UX & Product Design
+Product requirements, feature planning, user needs, and product structure. Turning an idea into something that can be designed and developed.
 
-I work on user flows, information architecture, wireframes, interface design, and interaction design, with attention to how people move through a product.
+</td>
+    <td width="50%" valign="top">
 
-### Full-Stack Development
+**UX & Product Design**
 
-I build frontend applications, backend services, REST APIs, databases, authentication, integrations, and the application logic that connects them.
+User flows, information architecture, wireframes, interface design, and interaction design.
 
-### Product Development
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-I work across planning, design, development, testing, deployment, and ongoing product improvements.
+**Full-Stack Development**
+
+Frontend applications, backend services, REST APIs, databases, authentication, integrations, and application logic.
+
+</td>
+    <td width="50%" valign="top">
+
+**Product Development**
+
+Planning, design, development, testing, deployment, and ongoing product improvements.
+
+</td>
+  </tr>
+</table>
+
+---
 
 ## Currently Working On
 
+<table>
+  <tr>
+    <td width="62%" valign="top">
+
 ### Jawily
 
-An AI-powered study-abroad platform bringing university and course discovery, applications, scholarships, accommodation, finance, and AI counselling into one platform.
+An AI-powered study-abroad platform for university and course discovery, applications, scholarships, accommodation, finance, and AI counselling.
 
-**Role:** Software Engineer & Product Manager
+</td>
+    <td width="38%" valign="top">
 
-My work covers product planning, product requirements, UX, interface design, frontend and backend development, application architecture, APIs and integrations, database work, testing, deployment, and coordinating development work.
+**Role**  
+Software Engineer & Product Manager
+
+**Focus**
+- Product Strategy
+- UX & Design
+- Full-Stack Development
+- APIs & Integrations
+- Architecture
+
+</td>
+  </tr>
+</table>
+
+---
 
 ## Tech Stack
 
-### Frontend
+<table>
+  <tr>
+    <td width="28%" valign="middle"><b>Frontend</b></td>
+    <td valign="middle">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap" />
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap&perline=8)](https://skillicons.dev)
 
-### Backend
+</td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Backend</b></td>
+    <td valign="middle">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Node.js, Express, Python" />
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,py&perline=3)](https://skillicons.dev)
 
-REST APIs
+</td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Databases & Services</b></td>
+    <td valign="middle">
 
-### Databases & Backend Services
+[![Databases](https://skillicons.dev/icons?i=postgres,supabase&perline=2)](https://skillicons.dev)
 
-<img src="https://skillicons.dev/icons?i=postgres,supabase" alt="PostgreSQL, Supabase" />
+</td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Authentication & Integrations</b></td>
+    <td valign="middle">
 
-### Authentication & Integrations
-
-![Authentication](https://img.shields.io/badge/Authentication-111827?style=flat-square)
-![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=white)
-![API integrations](https://img.shields.io/badge/API_integrations-0F172A?style=flat-square)
 
-### DevOps & Deployment
+OAuth · REST APIs · API Integrations
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel" alt="Git, GitHub, Vercel" />
+</td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>DevOps & Deployment</b></td>
+    <td valign="middle">
 
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=111)
+[![DevOps](https://skillicons.dev/icons?i=git,github,githubactions,vercel,azure&perline=5)](https://skillicons.dev)
 
-### Testing & Development
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
-![Debugging](https://img.shields.io/badge/Debugging-111827?style=flat-square)
-![Code_reviews](https://img.shields.io/badge/Code_reviews-334155?style=flat-square)
+</td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Testing & Development</b></td>
+    <td valign="middle">
 
-### Design & Product
+Unit Testing · Integration Testing · API Testing · Debugging · Code Review
 
-<img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+</td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Design & Product</b></td>
+    <td valign="middle">
 
-![UI/UX_Design](https://img.shields.io/badge/UI%2FUX_Design-111827?style=flat-square)
-![User_Flows](https://img.shields.io/badge/User_Flows-334155?style=flat-square)
-![Information_Architecture](https://img.shields.io/badge/Information_Architecture-475569?style=flat-square)
-![Product_Strategy](https://img.shields.io/badge/Product_Strategy-0F172A?style=flat-square)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
+UI/UX Design · User Flows · Information Architecture · Product Strategy
+
+</td>
+  </tr>
+</table>
+
+---
 
 ## Connect
 
