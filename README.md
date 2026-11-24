@@ -4,8 +4,6 @@
 
 I work across product strategy, UX, design, and software development. My background includes websites, digital products, content, branding, UX, design, and development.
 
-I look at more than the code: the problem, the users, the experience, the interface, and how the technical side should be built. I take ideas from planning through structure, UX, design, development, testing, and deployment.
-
 ## What I Do
 
 **Product Strategy**  
