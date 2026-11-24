@@ -35,59 +35,31 @@ Product Strategy · UX & Design · Full-Stack Development · APIs & Integrations
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+<code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code> <code>Tailwind CSS</code> <code>Bootstrap</code>
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-555555?style=flat-square)
+<code>Node.js</code> <code>Express.js</code> <code>Python</code> <code>REST APIs</code>
 
 ### Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+<code>PostgreSQL</code> <code>Supabase</code>
 
 ### Authentication & Integrations
 
-![OAuth](https://img.shields.io/badge/OAuth-555555?style=flat-square)
-![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-555555?style=flat-square)
-![API Integrations](https://img.shields.io/badge/API%20Integrations-555555?style=flat-square)
+<code>OAuth</code> <code>Passport.js</code> <code>REST APIs</code> <code>API Integrations</code>
 
 ### DevOps & Deployment
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+<code>Git</code> <code>GitHub</code> <code>GitHub Actions</code> <code>Vercel</code> <code>Railway</code> <code>Azure</code> <code>Render</code>
 
 ### Testing & Development
 
-![Unit Testing](https://img.shields.io/badge/Unit%20Testing-555555?style=flat-square)
-![Integration Testing](https://img.shields.io/badge/Integration%20Testing-555555?style=flat-square)
-![API Testing](https://img.shields.io/badge/API%20Testing-555555?style=flat-square)
-![Debugging](https://img.shields.io/badge/Debugging-555555?style=flat-square)
-![Code Review](https://img.shields.io/badge/Code%20Review-555555?style=flat-square)
+<code>Unit Testing</code> <code>Integration Testing</code> <code>API Testing</code> <code>Debugging</code> <code>Code Review</code>
 
 ### Design & Product
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-555555?style=flat-square)
-![User Flows](https://img.shields.io/badge/User%20Flows-555555?style=flat-square)
-![Information Architecture](https://img.shields.io/badge/Information%20Architecture-555555?style=flat-square)
-![Product Strategy](https://img.shields.io/badge/Product%20Strategy-555555?style=flat-square)
+<code>Figma</code> <code>UI/UX Design</code> <code>User Flows</code> <code>Information Architecture</code> <code>Product Strategy</code>
 
 ## Connect
 
