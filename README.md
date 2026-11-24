@@ -84,4 +84,4 @@ Product Strategy · UX & Design · Full-Stack Development · APIs & Integrations
 
 ## Connect
 
-[Portfolio](https://mahelaka-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mahelaka-mansoori/) · [GitHub](https://github.com/Mahelaka29)
+[Portfolio](https://mahelaka-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mahelakamansoori/) · [GitHub](https://github.com/Mahelaka29)
