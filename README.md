@@ -35,31 +35,35 @@ Product Strategy · UX & Design · Full-Stack Development · APIs & Integrations
 
 ### Frontend
 
-<code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code> <code>Tailwind CSS</code> <code>Bootstrap</code>
+<kbd>React</kbd>&nbsp;&nbsp;<kbd>Next.js</kbd>&nbsp;&nbsp;<kbd>TypeScript</kbd>&nbsp;&nbsp;<kbd>JavaScript</kbd>
+<br>
+<kbd>HTML</kbd>&nbsp;&nbsp;<kbd>CSS</kbd>&nbsp;&nbsp;<kbd>Tailwind CSS</kbd>&nbsp;&nbsp;<kbd>Bootstrap</kbd>
 
 ### Backend
 
-<code>Node.js</code> <code>Express.js</code> <code>Python</code> <code>REST APIs</code>
+<kbd>Node.js</kbd>&nbsp;&nbsp;<kbd>Express.js</kbd>&nbsp;&nbsp;<kbd>Python</kbd>&nbsp;&nbsp;<kbd>REST APIs</kbd>
 
 ### Database
 
-<code>PostgreSQL</code> <code>Supabase</code>
+<kbd>PostgreSQL</kbd>&nbsp;&nbsp;<kbd>Supabase</kbd>
 
 ### Authentication & Integrations
 
-<code>OAuth</code> <code>Passport.js</code> <code>REST APIs</code> <code>API Integrations</code>
+<kbd>OAuth</kbd>&nbsp;&nbsp;<kbd>Passport.js</kbd>&nbsp;&nbsp;<kbd>REST APIs</kbd>&nbsp;&nbsp;<kbd>API Integrations</kbd>
 
 ### DevOps & Deployment
 
-<code>Git</code> <code>GitHub</code> <code>GitHub Actions</code> <code>Vercel</code> <code>Railway</code> <code>Azure</code> <code>Render</code>
+<kbd>Git</kbd>&nbsp;&nbsp;<kbd>GitHub</kbd>&nbsp;&nbsp;<kbd>GitHub Actions</kbd>&nbsp;&nbsp;<kbd>Vercel</kbd>
+<br>
+<kbd>Railway</kbd>&nbsp;&nbsp;<kbd>Azure</kbd>&nbsp;&nbsp;<kbd>Render</kbd>
 
 ### Testing & Development
 
-<code>Unit Testing</code> <code>Integration Testing</code> <code>API Testing</code> <code>Debugging</code> <code>Code Review</code>
+<kbd>Unit Testing</kbd>&nbsp;&nbsp;<kbd>Integration Testing</kbd>&nbsp;&nbsp;<kbd>API Testing</kbd>&nbsp;&nbsp;<kbd>Debugging</kbd>&nbsp;&nbsp;<kbd>Code Review</kbd>
 
 ### Design & Product
 
-<code>Figma</code> <code>UI/UX Design</code> <code>User Flows</code> <code>Information Architecture</code> <code>Product Strategy</code>
+<kbd>Figma</kbd>&nbsp;&nbsp;<kbd>UI/UX Design</kbd>&nbsp;&nbsp;<kbd>User Flows</kbd>&nbsp;&nbsp;<kbd>Information Architecture</kbd>&nbsp;&nbsp;<kbd>Product Strategy</kbd>
 
 ## Connect
 
