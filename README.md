@@ -1,69 +1,62 @@
-# Mahelaka Mansoori
+# Mahelaka Bano
 
-**Software Engineer · Product Builder**
+### Software Engineer | Strategy, Design & Development
 
-I build products end to end — from problem definition and UX through full-stack development and deployment. Comfortable owning strategy, information architecture, design, and the engineering required to ship.
+I work across product strategy, UX, design, and software development. I like taking an idea from the early planning stage and turning it into something people can actually use.
 
-**Currently building [Jawily](https://www.mahelakamansoori.com/work/jawily)** — a study-abroad platform spanning strategy, UX, design, and development, focused on simplifying a complex counseling and applications journey.
+My work usually starts with understanding the problem, figuring out what needs to be built, planning the user experience, designing the interface, and then building the product.
 
-## Stack
+## What I Do
 
-**Frontend**
+**Product Strategy**  
+Understanding the problem, defining what needs to be built, and turning ideas into clear product plans.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**UX & Product Design**  
+Working on user flows, structure, interfaces, and the overall experience of a product.
 
-**Backend**
+**Full-Stack Development**  
+Building web applications, APIs, databases, authentication, and the features that bring a product together.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**Product Development**  
+Taking a product from an idea through planning, design, development, testing, and deployment.
 
-**Data & Auth**
+## Currently Working On
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=white)
-![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
+### Jawily
 
-**AI**
+An AI-powered study-abroad platform bringing university and course discovery, applications, scholarships, accommodation, finance, and AI counselling into one platform.
 
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-111827?style=flat-square)
-![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=111)
+**Role:** Software Engineer & Product Manager
 
-**Deploy**
+My work covers product planning, UX, design, frontend and backend development, architecture, and coordinating development work.
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=111)
+## Tech Stack
 
-## Projects
+**Frontend**  
+React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
 
-**[AI Codebase Assistant](https://github.com/Mahelaka29/ai-codebase-assistant)** · [Demo](https://ai-codebase-assistant-uu6k.onrender.com/)  
-RAG app for exploring unfamiliar codebases. Upload a project ZIP, index source with embeddings, and ask questions about architecture and implementation.  
-`Python` · `Streamlit` · `Google Gemini` · `FAISS`
+**Backend**  
+Node.js · Express.js · Python · REST APIs
 
-**[Instant Recipe](https://github.com/Mahelaka29/instant-recipe-api)** · [Demo](https://instant-recipe-api.vercel.app)  
-Full-stack recipe search with email/password and Google auth, favourites, and PostgreSQL persistence.  
-`Node.js` · `Express` · `PostgreSQL` · `Passport.js`
+**Database**  
+PostgreSQL · Supabase
 
-**[CareerBridge](https://github.com/Mahelaka29/careerBridge-)**  
-Multi-role career platform UI for students, recruiters, and admins — jobs, applications, interviews, and role-based dashboards.  
-`React` · `Vite` · `React Router`
+**Cloud & Development**  
+Git · GitHub · GitHub Actions · Vercel · Railway · Azure
 
-**[Portfolio](https://github.com/Mahelaka29/mahelaka-portfolio-)** · [Live](https://www.mahelakamansoori.com/)  
-Personal site for product and engineering work, built with a modern React + TypeScript stack.  
-`React` · `TypeScript` · `Vite` · `Tailwind CSS`
+**Design & Product**  
+Figma · UX/UI Design · Product Strategy
 
-**[Workflow Manager](https://github.com/Mahelaka29/workflow-manager)**  
-React frontend for workflow management, integrated with Supabase.  
-`React` · `Vite` · `Supabase`
+## How I Work
 
-## Contact
+**Understand → Plan → Design → Build → Test → Improve**
 
-[Portfolio](https://www.mahelakamansoori.com/) · [LinkedIn](https://www.linkedin.com/in/mahelaka-mansoori/) · [GitHub](https://github.com/Mahelaka29)
+I like being involved beyond the code. I care about how a product works, how it feels to use, and how the technical decisions support the product as it grows.
 
-Open to software engineering roles where product thinking and end-to-end ownership matter.
+## Outside Work
+
+I spend a lot of my free time writing, journaling, learning new things, and exploring ideas around technology, design, and people.
+
+## Connect
+
+[Portfolio](https://mahelaka-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mahelaka-mansoori/) · [GitHub](https://github.com/Mahelaka29)
