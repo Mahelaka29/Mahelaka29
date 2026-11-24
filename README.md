@@ -35,29 +35,23 @@ Product Strategy · UX & Design · Full-Stack Development · APIs & Integrations
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap" />
+<img src="https://skillicons.dev/icons?i=react" width="18" height="18" alt="" /> React · <img src="https://skillicons.dev/icons?i=nextjs" width="18" height="18" alt="" /> Next.js · <img src="https://skillicons.dev/icons?i=ts" width="18" height="18" alt="" /> TypeScript · <img src="https://skillicons.dev/icons?i=js" width="18" height="18" alt="" /> JavaScript · <img src="https://skillicons.dev/icons?i=html" width="18" height="18" alt="" /> HTML · <img src="https://skillicons.dev/icons?i=css" width="18" height="18" alt="" /> CSS · <img src="https://skillicons.dev/icons?i=tailwind" width="18" height="18" alt="" /> Tailwind CSS · <img src="https://skillicons.dev/icons?i=bootstrap" width="18" height="18" alt="" /> Bootstrap
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,py" alt="Node.js, Express.js, Python" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="18" height="18" alt="" /> Node.js · <img src="https://skillicons.dev/icons?i=express" width="18" height="18" alt="" /> Express.js · <img src="https://skillicons.dev/icons?i=py" width="18" height="18" alt="" /> Python · REST APIs
 
-REST APIs
+### Database
 
-### Databases & Services
-
-<img src="https://skillicons.dev/icons?i=postgres,supabase" alt="PostgreSQL, Supabase" />
+<img src="https://skillicons.dev/icons?i=postgres" width="18" height="18" alt="" /> PostgreSQL · <img src="https://skillicons.dev/icons?i=supabase" width="18" height="18" alt="" /> Supabase
 
 ### Authentication & Integrations
 
-<img src="https://cdn.simpleicons.org/passport/34E27A" width="48" height="48" alt="Passport.js" />
-
-OAuth · REST APIs · API Integrations
+OAuth · <img src="https://cdn.simpleicons.org/passport/34E27A" width="16" height="16" alt="" /> Passport.js · API Integrations
 
 ### DevOps & Deployment
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,azure" alt="Git, GitHub, GitHub Actions, Vercel, Azure" />
-<img src="https://cdn.simpleicons.org/railway/FFFFFF" width="48" height="48" alt="Railway" />
-<img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" alt="Render" />
+<img src="https://skillicons.dev/icons?i=git" width="18" height="18" alt="" /> Git · <img src="https://skillicons.dev/icons?i=github" width="18" height="18" alt="" /> GitHub · <img src="https://skillicons.dev/icons?i=githubactions" width="18" height="18" alt="" /> GitHub Actions · <img src="https://skillicons.dev/icons?i=vercel" width="18" height="18" alt="" /> Vercel · <img src="https://cdn.simpleicons.org/railway/8B8B8B" width="16" height="16" alt="" /> Railway · <img src="https://skillicons.dev/icons?i=azure" width="18" height="18" alt="" /> Azure · <img src="https://cdn.simpleicons.org/render/46E3B7" width="16" height="16" alt="" /> Render
 
 ### Testing & Development
 
@@ -65,9 +59,7 @@ Unit Testing · Integration Testing · API Testing · Debugging · Code Review
 
 ### Design & Product
 
-<img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-
-UI/UX Design · User Flows · Information Architecture · Product Strategy
+<img src="https://skillicons.dev/icons?i=figma" width="18" height="18" alt="" /> Figma · UI/UX Design · User Flows · Information Architecture · Product Strategy
 
 ## Connect
 
