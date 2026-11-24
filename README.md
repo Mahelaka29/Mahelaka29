@@ -34,54 +34,54 @@ Product Strategy · UX & Design · Full-Stack Development · APIs & Integrations
 ## Tech Stack
 
 **Frontend**  
-![React](https://img.shields.io/badge/React-0D1117?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=flat&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-0D1117?style=flat&logo=css&logoColor=1572B6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat&logo=tailwindcss&logoColor=38BDF8)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=flat&logo=bootstrap&logoColor=7952B3)
+![React](https://img.shields.io/badge/React-30363D?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-30363D?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-30363D?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-30363D?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-30363D?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-30363D?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-30363D?style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-30363D?style=flat-square)
 
 **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat&logo=nodedotjs&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=3776AB)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0D1117?style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-30363D?style=flat-square)
+![Express.js](https://img.shields.io/badge/Express.js-30363D?style=flat-square)
+![Python](https://img.shields.io/badge/Python-30363D?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-30363D?style=flat-square)
 
 **Database**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat&logo=postgresql&logoColor=4169E1)
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat&logo=supabase&logoColor=3FCF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-30363D?style=flat-square)
 
 **Authentication & Integrations**  
-![OAuth](https://img.shields.io/badge/OAuth-0D1117?style=flat)
-![Passport.js](https://img.shields.io/badge/Passport.js-0D1117?style=flat&logo=passport&logoColor=34E27A)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0D1117?style=flat)
-![API Integrations](https://img.shields.io/badge/API_Integrations-0D1117?style=flat)
+![OAuth](https://img.shields.io/badge/OAuth-30363D?style=flat-square)
+![Passport.js](https://img.shields.io/badge/Passport.js-30363D?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-30363D?style=flat-square)
+![API Integrations](https://img.shields.io/badge/API%20Integrations-30363D?style=flat-square)
 
 **DevOps & Deployment**  
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat&logo=githubactions&logoColor=2088FF)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0D1117?style=flat&logo=railway&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0D1117?style=flat)
-![Render](https://img.shields.io/badge/Render-0D1117?style=flat&logo=render&logoColor=46E3B7)
+![Git](https://img.shields.io/badge/Git-30363D?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-30363D?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-30363D?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-30363D?style=flat-square)
+![Railway](https://img.shields.io/badge/Railway-30363D?style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-30363D?style=flat-square)
+![Render](https://img.shields.io/badge/Render-30363D?style=flat-square)
 
 **Testing & Development**  
-![Unit Testing](https://img.shields.io/badge/Unit_Testing-0D1117?style=flat)
-![Integration Testing](https://img.shields.io/badge/Integration_Testing-0D1117?style=flat)
-![API Testing](https://img.shields.io/badge/API_Testing-0D1117?style=flat)
-![Debugging](https://img.shields.io/badge/Debugging-0D1117?style=flat)
-![Code Review](https://img.shields.io/badge/Code_Review-0D1117?style=flat)
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-30363D?style=flat-square)
+![Integration Testing](https://img.shields.io/badge/Integration%20Testing-30363D?style=flat-square)
+![API Testing](https://img.shields.io/badge/API%20Testing-30363D?style=flat-square)
+![Debugging](https://img.shields.io/badge/Debugging-30363D?style=flat-square)
+![Code Review](https://img.shields.io/badge/Code%20Review-30363D?style=flat-square)
 
 **Design & Product**  
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat&logo=figma&logoColor=F24E1E)
-![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-0D1117?style=flat)
-![User Flows](https://img.shields.io/badge/User_Flows-0D1117?style=flat)
-![Information Architecture](https://img.shields.io/badge/Information_Architecture-0D1117?style=flat)
-![Product Strategy](https://img.shields.io/badge/Product_Strategy-0D1117?style=flat)
+![Figma](https://img.shields.io/badge/Figma-30363D?style=flat-square)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-30363D?style=flat-square)
+![User Flows](https://img.shields.io/badge/User%20Flows-30363D?style=flat-square)
+![Information Architecture](https://img.shields.io/badge/Information%20Architecture-30363D?style=flat-square)
+![Product Strategy](https://img.shields.io/badge/Product%20Strategy-30363D?style=flat-square)
 
 ## Connect
 
-[Portfolio](https://mahelaka-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mahelakamansoori/) · [GitHub](https://github.com/Mahelaka29)
+<a href="https://mahelaka-portfolio.vercel.app/" rel="noopener noreferrer">Portfolio</a> · <a href="https://www.linkedin.com/in/mahelakamansoori/" rel="noopener noreferrer">LinkedIn</a>
