@@ -24,10 +24,9 @@ Planning, design, development, testing, deployment, and ongoing product improvem
 
 **Software Engineer & Product Manager**
 
-An AI-powered study-abroad platform bringing university and course discovery, applications, scholarships, accommodation, finance, and AI counselling into one platform.
+I strategized and built Jawily, an AI-powered study-abroad platform, from the ground up. I work across product strategy, UX, architecture, development, integrations, testing, and deployment, while leading the team responsible for refining and expanding the product.
 
-**Focus**  
-Product Strategy · UX & Design · Full-Stack Development · APIs & Integrations · Architecture
+I take the product from ideas and requirements to structure, design, development, and continuous improvement.
 
 ## Tech Stack
 
