@@ -28,6 +28,9 @@ I strategized and built Jawily, an AI-powered study-abroad platform, from the gr
 
 I take the product from ideas and requirements to structure, design, development, and continuous improvement.
 
+**Focus**  
+Product Strategy · UX & Design · Full-Stack Development · APIs & Integrations · Architecture
+
 ## Tech Stack
 
 **Frontend**  
