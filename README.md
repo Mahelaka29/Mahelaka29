@@ -2,7 +2,7 @@
 
 ### Software Engineer | Strategy, Design & Development
 
-I work across product strategy, UX, design, and software development. My background includes websites, digital products, content, branding, UX, design, and development.
+I work across product strategy, UX, design, and software development. My background includes websites, digital products, branding, UX, design, and development.
 
 ## What I Do
 
